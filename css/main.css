@@ -454,3 +454,43 @@ a{
   text-align: justify;
 }
 
+.history_header{
+  width: 900px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 600px;
+  left: 470px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+
+}
+.history_foto1 {
+  width: 600px;
+  height: 302px;
+  background: url("../images/history_foto1.png");
+  opacity: 1;
+  position: absolute;
+  top: 660px;
+  left: 384px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+
+.history_desc1 {
+  width: 900px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 970px;
+  left: 372px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
