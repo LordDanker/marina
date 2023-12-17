@@ -102,7 +102,7 @@ a{
 .button-active{
   width: 126px;
   height: 50px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   background: rgb(247, 158, 16);
   border: 1px solid rgba(0,0,0,0.30000001192092896);
   border-top-left-radius: 10px;
@@ -115,7 +115,7 @@ a{
   justify-content: center;
   align-items: center;
   font-family: Ubuntu;
-  font-weight: Medium;
+  font-weight:bold;
   font-size: 20px;
   opacity: 1;
 
