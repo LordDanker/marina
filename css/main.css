@@ -494,3 +494,148 @@ a{
   opacity: 1;
   text-align: left;
 }
+.history_foto2 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/history_foto2.png");
+  opacity: 1;
+  position: absolute;
+  top: 1000px;
+  left: 214px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.history_foto3 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/history_foto3.png");
+  opacity: 1;
+  position: absolute;
+  top: 1000px;
+  left: 575px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.history_foto4 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/history_foto4.png");
+  opacity: 1;
+  position: absolute;
+  top: 1000px;
+  left: 935px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.history_desc2 {
+  width: 1100px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1230px;
+  left: 200px;
+  font-family: Ubuntu;
+  font-weight:700;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.porto_header{
+  width: 900px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 560px;
+  left: 490px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+
+}
+.porto_foto1 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/porto_foto2.png");
+  opacity: 1;
+  position: absolute;
+  top: 620px;
+  left: 190px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.porto_foto2 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/porto_foto1.png");
+  opacity: 1;
+  position: absolute;
+  top: 620px;
+  left: 540px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.porto_foto3 {
+  width: 343px;
+  height: 221px;
+  background: url("../images/porto_foto3.png");
+  opacity: 1;
+  position: absolute;
+  top: 620px;
+  left: 890px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.porto_desc1 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 850px;
+  left: 290px;
+  font-family: Ubuntu;
+  font-weight:700;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.porto_desc2 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 850px;
+  left: 630px;
+  font-family: Ubuntu;
+  font-weight:700;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.porto_desc3 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 850px;
+  left: 990px;
+  font-family: Ubuntu;
+  font-weight:700;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
